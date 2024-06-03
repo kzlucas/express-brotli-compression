@@ -1,4 +1,4 @@
-Forked from (https://github.com/danielgindi/express-compression/tree/feature/brotli)[https://github.com/danielgindi/express-compression/tree/feature/brotli]
+Forked from https://github.com/danielgindi/express-compression/tree/feature/brotli
 
 Override the compression negotiation to always use the `br` encoding.
 
